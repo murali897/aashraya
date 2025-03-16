@@ -2,9 +2,10 @@
   from = "/admin"
   to = "/admin/index.html"
   status = 200
+
 [build]
   command = "hugo"
-  publish = "public"
+  publish = "docs"
 
 [context.production.environment]
   HUGO_VERSION = "0.125.7"
