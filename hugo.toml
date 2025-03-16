@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Aashraya Enclave'
 theme = "PaperMod"
 
+publishDir = "docs"
+
 [params]
   ShowReadingTime = true
   ShowBreadCrumbs = true
