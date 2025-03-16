@@ -1,7 +1,7 @@
 +++
 date = '2025-03-16T13:48:36+05:30'
 draft = false
-title = 'Aashraya Enclave Apartment Association Rules 🏢🏡'
+title = 'Association Guidelines 🏢🏡'
 +++
 
 

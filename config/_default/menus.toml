@@ -4,23 +4,23 @@
   url = "/announcements/"
   weight = 1
 
-[[main]]
-  identifier = "security"
-  name = "Security"
-  url = "/security/"
-  weight = 2
+#[[main]]
+#  identifier = "security"
+#  name = "Security"
+#  url = "/security/"
+#  weight = 2
 
 [[main]]
-  identifier = "rules"
-  name = "Rules"
-  url = "/rules/"
+  identifier = "resident-guide"
+  name = "Resident Guide"
+  url = "/resident-guide/"
   weight = 3
 
-[[main]]
-  identifier = "maintenance"
-  name = "Maintenance"
-  url = "/maintenance/"
-  weight = 4
+#[[main]]
+#  identifier = "maintenance"
+#  name = "Maintenance"
+#  url = "/maintenance/"
+#  weight = 4
 
 [[main]]
   identifier = "forum"
@@ -28,11 +28,11 @@
   url = "/forum/"
   weight = 5
 
-[[main]]
-  identifier = "documents"
-  name = "Documents"
-  url = "/documents/"
-  weight = 6
+#[[main]]
+#  identifier = "documents"
+#  name = "Documents"
+#  url = "/documents/"
+#  weight = 6
 
 [[main]]
   identifier = "contact"

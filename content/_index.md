@@ -1,5 +1,9 @@
 +++
-date = '2025-03-16T13:34:20+05:30'
-draft = false
-title = ''
+title = "Welcome to Aashraya Enclave"
 +++
+
+# Welcome to Aashraya Enclave
+
+Community in Whitefield, Bangalore.
+
+![Apartment View](images/apartment1.jpg)
