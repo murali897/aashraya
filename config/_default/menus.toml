@@ -1,0 +1,41 @@
+[[main]]
+  identifier = "announcements"
+  name = "Announcements"
+  url = "/announcements/"
+  weight = 1
+
+[[main]]
+  identifier = "security"
+  name = "Security"
+  url = "/security/"
+  weight = 2
+
+[[main]]
+  identifier = "rules"
+  name = "Rules"
+  url = "/rules/"
+  weight = 3
+
+[[main]]
+  identifier = "maintenance"
+  name = "Maintenance"
+  url = "/maintenance/"
+  weight = 4
+
+[[main]]
+  identifier = "forum"
+  name = "Forum"
+  url = "/forum/"
+  weight = 5
+
+[[main]]
+  identifier = "documents"
+  name = "Documents"
+  url = "/documents/"
+  weight = 6
+
+[[main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 7

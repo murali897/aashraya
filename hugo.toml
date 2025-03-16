@@ -1,0 +1,10 @@
+baseURL = "https://murali897.github.io/aashraya/"
+languageCode = 'en-us'
+title = 'Aashraya Enclave'
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+  defaultTheme = "light"

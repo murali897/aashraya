@@ -1,0 +1,28 @@
+backend:
+  name: git-gateway
+  branch: main  # Change this if you're using a different branch
+
+media_folder: "static/uploads"  # Where images will be stored
+public_folder: "/uploads"
+
+collections:
+  - name: "announcements"
+    label: "Announcements"
+    folder: "content/announcements"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "contacts"
+    label: "Contacts"
+    folder: "content/contact"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Phone", name: "phone", widget: "string" }
+      - { label: "Email", name: "email", widget: "string", required: false }
+      - { label: "Role", name: "role", widget: "string" }
+
