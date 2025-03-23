@@ -23,9 +23,9 @@
 #  weight = 4
 
 [[main]]
-  identifier = "forum"
-  name = "Forum"
-  url = "/forum/"
+  identifier = "amenities"
+  name = "Amenities"
+  url = "/amenities/"
   weight = 5
 
 #[[main]]

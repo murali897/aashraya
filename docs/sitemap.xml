@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/contact/</loc>
-    <lastmod>2025-03-16T13:49:03+05:30</lastmod>
+    <loc>//localhost:1313/amenities/</loc>
+    <lastmod>2025-03-23T11:26:19+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2025-03-23T11:26:19+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/contact/</loc>
     <lastmod>2025-03-16T13:49:03+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/documents/</loc>
     <lastmod>2025-03-16T13:48:57+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/forum/</loc>
-    <lastmod>2025-03-16T13:48:51+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/maintenance/</loc>
     <lastmod>2025-03-16T13:48:44+05:30</lastmod>
