@@ -32,11 +32,10 @@ To ensure a harmonious and sustainable living environment, all residents are req
 - *Strictly Prohibited*: No tobacco, gutka, pan masala, or banned substances. No spitting in or around the gym.
 
 **5. Waste Segregation ♻️**  
-- Follow the **BBMP waste segregation rules**:  
-  - *Wet Waste* (kitchen waste, vegetable peels) – Green bin  
-  - *Dry Waste* (plastic, paper, glass, metal) – Blue bin  
-  - *Hazardous Waste* (batteries, e-waste, expired medicines) – Red bin  
-- Collection days and timings must be strictly followed.  
+- Try to follow the **General waste segregation rules**:  
+  - *Wet Waste* (kitchen waste, vegetable peels)  
+  - *Dry Waste* (plastic, paper, glass, metal)  
+  - *Hazardous Waste* (batteries, e-waste, expired medicines)   
 
 **6. Noise Control 🔇**  
 - Keep noise levels in check, especially between **10 PM – 7 AM**.  

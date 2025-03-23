@@ -10,3 +10,14 @@ publishDir = "docs"
   ShowBreadCrumbs = true
   ShowToc = true
   defaultTheme = "light"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params.shareButtons]
+  size = "small"
+  networks = ["facebook", "twitter", "whatsapp", "email"]
+
+

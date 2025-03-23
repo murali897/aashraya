@@ -9,3 +9,6 @@
 
 [context.production.environment]
   HUGO_VERSION = "0.125.7"
+  HUGO_ENV = "production"
+
+

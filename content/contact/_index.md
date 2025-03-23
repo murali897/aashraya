@@ -12,9 +12,12 @@ For any assistance, please reach out to the relevant personnel below.
 
 #### **🚔 Security & Emergency**
 
-- **Day Security** (7 AM – 7 PM): 📞 [Day Security Number](tel:+919686642768)
+- **Day Security**: 📞 [Day Security Number](tel:+919686642768)
 
-- **Night Security** (7 PM – 7 AM): 📞 [Night Security Number](tel:Night Security Number)
+- **Night Security**: 📞 [Night Security Number](tel:Night Security Number)
+
+- **Security Agency**: 📞 [+91-8618755648](tel:+918618755648)
+(Krishna facility management and service)
 
 - **Emergency Helpline:** 📞 [112](tel:112)
 
@@ -38,7 +41,7 @@ For any assistance, please reach out to the relevant personnel below.
   - **Option 2: Ranjan** 🚰 📞 [+91-9740659047](tel:+919740659047)
 
 - **Carpenters:**
-  - **Option 1:** 🛠️ 📞 [Carpenter 1 Number](tel:Carpenter 1 Number)
+  - **Option 1: Amjad** 🛠️ 📞 [+91-9535120860](tel:+919535120860)
   - **Option 2:** 🛠️ 📞 [Carpenter 2 Number](tel:Carpenter 2 Number)
 
 - **Pest Control Services:**
@@ -57,10 +60,9 @@ For any assistance, please reach out to the relevant personnel below.
 - **Water Supply (Tankers):**
   - **Small Tanker (4,500 litres):**
     - **Krishnappa:** 📞 [7676569797](tel:+917676569797)
-    - **Alternative:** 📞 [Alternative Small Tanker Number](tel:Alternative Small Tanker Number)
+    - **Alternative:** 📞 [Alternate Small Tanker](tel:Alternate Small Tanker No)
   - **Big Tanker (13,000 litres):**
-    - **Option 1:** 📞 [Big Tanker 1 Number](tel:Big Tanker 1 Number)
-    - **Option 2:** 📞 [Big Tanker 2 Number](tel:Big Tanker 2 Number)
+    - **Option 1:** 📞 [Big Tanker 1 No](tel:Big Tanker 1 No)
 
 - **Power Supply (BESCOM):**
   - **24x7 Helpline:** ⚡ 📞 [1912](tel:1912)
