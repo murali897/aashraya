@@ -12,12 +12,12 @@ For any assistance, please reach out to the relevant personnel below.
 
 #### **🚔 Security & Emergency**
 
-- **Day Security**: 📞 [Day Security Number](tel:+919686642768)
+- **Day Security**: 📞 [+91-9686642768](tel:+919686642768)
 
-- **Night Security**: 📞 [Night Security Number](tel:Night Security Number)
+- **Night Security**: 📞 [Night Security No](tel:Night Security No)
 
 - **Security Agency**: 📞 [+91-8618755648](tel:+918618755648)
-(Krishna facility management and service)
+(Krishna facility service)
 
 - **Emergency Helpline:** 📞 [112](tel:112)
 
@@ -33,19 +33,18 @@ For any assistance, please reach out to the relevant personnel below.
 #### **🔧 Maintenance & Repairs**
 
 - **Electricians:**
-  - **Option 1: Prasad** ⚡ 📞 [+91-9880918873](tel:+919880918873)
+  - **Prasad** ⚡ 📞 [+91-9880918873](tel:+919880918873)
   - **Option 2:** ⚡ 📞 [Electrician 2 Number](tel:Electrician 2 Number)
 
 - **Plumbers:**
-  - **Option 1: Sandeep** 🚰 📞 [+91-9945062279](tel:+919945062279)
-  - **Option 2: Ranjan** 🚰 📞 [+91-9740659047](tel:+919740659047)
+  - **Sandeep** 🚰 📞 [+91-9945062279](tel:+919945062279)
+  - **Ranjan** 🚰 📞 [+91-9740659047](tel:+919740659047)
 
 - **Carpenters:**
-  - **Option 1: Amjad** 🛠️ 📞 [+91-9535120860](tel:+919535120860)
-  - **Option 2:** 🛠️ 📞 [Carpenter 2 Number](tel:Carpenter 2 Number)
+  - **Amjad** 🛠️ 📞 [+91-9535120860](tel:+919535120860)
 
 - **Pest Control Services:**
-  - **Option 1:** 🦟 📞 [+91-9353021181](tel:+919353021181)
+  - **Pest Control** 🦟 📞 [+91-9353021181](tel:+919353021181)
 
 #### **🗑️ Housekeeping & Waste Management**
 - **Garbage Collection In-Charge:**
@@ -54,27 +53,28 @@ For any assistance, please reach out to the relevant personnel below.
 - **Sewage & Water Treatment:**
   - **Option 1:** 💧 📞 [Sewage Treatment 1 Number](tel:Sewage Treatment 1 Number)
 
+- **Painting and Grouting:**
+  - **Upender** 💧 📞 [+91-8400710406](tel:+918400710406)
+
+
 #### **🏠 Essential Services**
 - **BBMP Helpline:** 📞 [1533](tel:1533)
 
 - **Water Supply (Tankers):**
   - **Small Tanker (4,500 litres):**
     - **Krishnappa:** 📞 [7676569797](tel:+917676569797)
-    - **Alternative:** 📞 [Alternate Small Tanker](tel:Alternate Small Tanker No)
   - **Big Tanker (13,000 litres):**
-    - **Option 1:** 📞 [Big Tanker 1 No](tel:Big Tanker 1 No)
+    - **Chandru** 📞 [Big Tanker 1 No](tel:Big Tanker 1 No)
 
 - **Power Supply (BESCOM):**
   - **24x7 Helpline:** ⚡ 📞 [1912](tel:1912)
   - **WhatsApp Support:** 📞 [9449844640](tel:+919449844640)
 
 - **Gas Cylinder Booking:**
-  - **Option 1: Indane -Sri Vishnu Gas Agency** 🔥 📞 [09448279858](tel:+919448279858)
-  - **Option 2:** 🔥 📞 [Gas Booking 2 Number](tel:Gas Booking 2 Number)
+  - **Indane -Sri Vishnu Gas Agency** 🔥 📞 [09448279858](tel:+919448279858)
 
 - **Internet Service Providers:**
-  - **Option 1: Airtel Broadband - Siddesh** 🌐 📞 [+91-9606330103](tel:+919606330103)
-  - **Option 2:** 🌐 📞 [ISP 2 Number](tel:ISP 2 Number)
+  - **Airtel Broadband - Siddesh** 🌐 📞 [+91-9606330103](tel:+919606330103)
 
 #### **🛒 Nearby Grocery Stores**
 There are multiple options nearby. Few are listed here for reference only
